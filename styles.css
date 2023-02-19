@@ -25,7 +25,10 @@ li {
     align-items: center;
     justify-content: center;
 }
-.links{}
+.links{
+    margin: 12px;
+    padding: auto;
+}
 
 #logo {
     font-size: 1.8rem;
