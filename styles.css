@@ -9,7 +9,7 @@ body {
 
 }
 header{
-    border: 2px solid yellowgreen;
+    /* border: 2px solid yellowgreen; */
 }
 ul {
     list-style: none;
@@ -21,7 +21,7 @@ li {
     display: inline;
 }
 .linkbox{
-    display: inline;
+    display: flex;
 }
 .links{}
 
