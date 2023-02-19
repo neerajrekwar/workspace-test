@@ -18,7 +18,7 @@ li {
     text-decoration: none;
 }
 .navbox{
-    display: flex;
+    border: 2px solid tomato;
 }
 .linkbox{
     display: inline-flex;
