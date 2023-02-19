@@ -21,7 +21,7 @@ li {
     border: 2px solid tomato;
     display: inline-flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 .linkbox{
     display: inline-flex;
