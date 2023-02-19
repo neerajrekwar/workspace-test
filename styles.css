@@ -21,7 +21,7 @@ li {
     display: flex;
 }
 .linkbox{
-    display: flex;
+    display: inline-flex;
 }
 .links{}
 
