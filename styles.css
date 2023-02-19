@@ -18,7 +18,7 @@ li {
     text-decoration: none;
 }
 .navbox{
-    display: inline;
+    display: flex;
 }
 .linkbox{
     display: flex;
