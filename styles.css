@@ -5,3 +5,9 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     scroll-behavior: smooth;
 }
+body {
+
+}
+header{
+    border: 2px solid yellowgreen;
+}
