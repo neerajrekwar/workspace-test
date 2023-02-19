@@ -11,6 +11,12 @@ body {
 header{
     border: 2px solid yellowgreen;
 }
+ul {
+    list-style: none;
+}
+li {
+    text-decoration: none;
+}
 .navbox{
     display: inline;
 }
@@ -18,3 +24,4 @@ header{
     display: inline;
 }
 .links{}
+
