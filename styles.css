@@ -11,3 +11,10 @@ body {
 header{
     border: 2px solid yellowgreen;
 }
+.navbox{
+    display: inline;
+}
+.linkbox{
+    display: inline;
+}
+.links{}
