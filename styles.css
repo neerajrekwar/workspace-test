@@ -17,6 +17,7 @@ ul {
 }
 li {
     text-decoration: none;
+    background: salmon;
     border: 2px solid rgb(32, 147, 167);
 }
 .navbox{
