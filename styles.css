@@ -34,12 +34,18 @@ li {
     justify-content: center;
 }
 
-.links{
+.links:hover{
     margin: 12px;
     padding: auto;
+    transition: ease-in-out;
+    transform: rotate(360deg);
 }
 
 #logo {
     font-size: 1.8rem;
     
 }
+.intro:{}
+.about{}
+.blog{}
+.talk{}
