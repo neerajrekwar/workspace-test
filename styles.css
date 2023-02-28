@@ -9,21 +9,21 @@ body {
 
 }
 header{
-    border: 2px solid yellowgreen;
+    /* border: 2px solid yellowgreen; */
 }
 ul {
     display: inline-flex;
     list-style: none;
-    border: 2px solid rebeccapurple;
+    /* border: 2px solid rebeccapurple; */
 }
 li {
     text-decoration: none;
     background: salmon;
-    border: 2px solid rgb(32, 147, 167);
+    /* border: 2px solid rgb(32, 147, 167); */
 }
 .navbox{
     margin: 0 auto;
-    border: 2px solid tomato;
+    /* border: 2px solid tomato; */
     display: inline-flex;
     align-items: center;
     justify-content: space-around;
@@ -45,7 +45,9 @@ li {
     font-size: 1.8rem;
     
 }
-.intro:{}
+.intro:hover{
+    color: black;
+}
 .about{}
 .blog{}
 .talk{}
