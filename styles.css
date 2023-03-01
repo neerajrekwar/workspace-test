@@ -9,17 +9,20 @@ body {
 
 }
 header{
-    /* border: 2px solid yellowgreen; */
+    border: 2px solid yellowgreen;
 }
 ul {
     display: inline-flex;
     list-style: none;
-    /* border: 2px solid rebeccapurple; */
+    border: 2px solid rebeccapurple;
+}
+a {
+    text-decoration: none;
 }
 li {
     text-decoration: none;
     /* background: salmon; */
-    /* border: 2px solid rgb(32, 147, 167); */
+    border: 2px solid rgb(32, 147, 167);
 }
 .navbox{
     margin: 0 auto;
