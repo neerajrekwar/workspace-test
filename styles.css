@@ -44,12 +44,12 @@ li {
     transform: rotate(360deg);
 }
 
-#logo {
-    font-size: 1.8rem;
+#logo:hovor {
+    color: brown;
     
 }
 .intro:hover{
-    color: black;
+    color: rgb(95, 17, 17);
 }
 .about{}
 .blog{}
