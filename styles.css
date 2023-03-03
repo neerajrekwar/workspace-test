@@ -45,9 +45,7 @@ li {
 }
 
 .links:hover{
-    padding: auto;
-    transition: ease-in-out;
-    transform: rotate(360deg);
+color: teal;
 }
 
 #logo:hover {
