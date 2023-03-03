@@ -30,12 +30,12 @@ li {
 .navbox{
     margin: 0 auto;
     /* border: 2px solid tomato; */
-    display: inline-flex;
+    display: flex;
     align-items: center;
     justify-content: space-around;
 }
 .linkbox{
-    display: inline-flex;
+    display: flex;
     align-items: center;
     justify-content: center;
 }
