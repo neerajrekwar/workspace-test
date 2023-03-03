@@ -11,6 +11,9 @@ body {
 header{
     border: 2px solid yellowgreen;
 }
+nav{
+    margin: 0 auto;
+}
 ul {
     display: inline-flex;
     list-style: none;
